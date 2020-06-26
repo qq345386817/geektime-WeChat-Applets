@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "mp-icon": "/weui-miniprogram/mp-icon/mp-icon"
+  },
+  "pageOrientation": "auto"
+}
